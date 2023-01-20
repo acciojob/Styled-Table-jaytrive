@@ -1,1 +1,15 @@
 /* your code */
+table{
+	width:100%;
+	border:1px solid;
+}
+td,th{
+	border:1px solid;
+}
+tbody{
+	text-align:center;
+}
+thead{
+	color:blue;
+	background-color:pink;
+}
